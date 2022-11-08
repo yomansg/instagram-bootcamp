@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-instagram/static/css/main.c05e8964.css",
-    "main.js": "/my-instagram/static/js/main.dfa92272.js",
-    "static/media/logo.png": "/my-instagram/static/media/logo.e54ce6ab620f8c7135f3.png",
-    "index.html": "/my-instagram/index.html",
-    "main.c05e8964.css.map": "/my-instagram/static/css/main.c05e8964.css.map",
-    "main.dfa92272.js.map": "/my-instagram/static/js/main.dfa92272.js.map"
+    "main.css": "/instagram-bootcamp/static/css/main.c05e8964.css",
+    "main.js": "/instagram-bootcamp/static/js/main.13be170b.js",
+    "static/media/logo.png": "/instagram-bootcamp/static/media/logo.e54ce6ab620f8c7135f3.png",
+    "index.html": "/instagram-bootcamp/index.html",
+    "main.c05e8964.css.map": "/instagram-bootcamp/static/css/main.c05e8964.css.map",
+    "main.13be170b.js.map": "/instagram-bootcamp/static/js/main.13be170b.js.map"
   },
   "entrypoints": [
     "static/css/main.c05e8964.css",
-    "static/js/main.dfa92272.js"
+    "static/js/main.13be170b.js"
   ]
 }
